@@ -13,14 +13,14 @@ html {
 body {
 	max-height: 100%;
     margin: 0;
-    color: #BFAD8D;
+    color: #B0B0B0;
     font: normal 16px/1.2 "Roboto Slab",Helvetica,Arial,sans-serif;
 	--text-shadow: 1px 1px #000;
 }
 
 p {
 	margin: 0 0 10px;
-	--color: #54A7AA;
+	--color: #B0B0B0;
 }
 
 h1, h2, h3, h4, h5, h6 {
